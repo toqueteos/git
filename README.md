@@ -1,10 +1,8 @@
-git
-===
+# git
 
 git implementation in Go.
 
-Why?
-====
+## Why?
 
 I wanted to learn how git works internally not just the commands to use it.
 
@@ -14,9 +12,8 @@ By implementing git in Go `go get` can include additional features like fetching
 
 Go authors still have to approve this, which probably will be rejected just because there's no Mercurial and Bazaar Go implementations yet (if there are I don't know a thing about them).
 
-When...?
-========================
+## When...?
 
 *... will this be ready?*
 
-I don't know, it's a toy project right now.
+Very soon. At least a version with git `add`, `commit`, `clone`, `push` and `pull`.
