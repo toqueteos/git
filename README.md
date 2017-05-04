@@ -8,8 +8,8 @@ This is a toy project and it is abandoned, but I'm not deleting it.
 
 Why so? Because of many reasons:
 
-- This repository got me a job, not kidding!
-- It helped me learning all the amazing git is made of
+- This repository got me a job, not kidding! (there I actually implemented a read-only git implementation in Go)
+- It helped me learning all the amazing things git is made (composed) of
 - This is a failure project of mine and I'm ashamed of it, it taught me lots of things!
 
 ## When...?
@@ -21,7 +21,7 @@ Why so? Because of many reasons:
 But don't worry there's plenty of git libraries in Go, here's a couple of suggestions:
 
 - https://github.com/kourge/ggit superb documentation, super friendly and amazing guy!
-- https://github.com/src-d/go-git almost no documentation but gets the job done most of the time
+- https://github.com/src-d/go-git not the best documentation but gets the job done most of the time
 
 ## Why?
 
